@@ -8,9 +8,8 @@ useHead({
 </script>
 
 <template>
-  <main font-sans text="center gray-700 dark:gray-200">
-    <Navbar />
+  <Navbar />
+  <main font-sans text="gray-700 dark:gray-200" mx-5 my-10 md:m-36>
     <RouterView />
-    <TheFooter />
   </main>
 </template>
