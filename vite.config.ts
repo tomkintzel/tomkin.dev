@@ -26,7 +26,16 @@ export default defineConfig({
     }),
 
     // https://github.com/hannoeru/vite-plugin-pages
-    Pages({ onRoutesGenerated: routes => (generateSitemap({ routes })) }),
+    Pages({
+      onRoutesGenerated: routes =>
+        (generateSitemap(
+          {
+            hostname: 'https://tomkin.dev',
+            routes: [...routes],
+          },
+        )
+        ),
+    }),
 
     // https://github.com/antfu/unplugin-auto-import
     AutoImport({
