@@ -12,7 +12,14 @@ defineOptions({
     <span class="opacity-60" flex gap-2 items-center>Web-Entwickler aus Bielefeld, <div i-flag-de-4x3 /></span>
     <div class="mt-15">
       <p class="mb">
-        Hey Leute, ich bin ein Webentwickler aus Bielefeld und arbeite bei der <a href="https://ecommerce-werkstatt.de" target="_blank" rel="noopener">ECW</a>. <br> Meine große Leidenschaft ist die Webentwicklung mit <a href="https://vuejs.org/">Vue</a> und dessen Ecosystem.
+        Hey Leute, ich bin ein Webentwickler aus Bielefeld und arbeite bei der <a href="https://ecommerce-werkstatt.de" target="_blank" rel="noopener">ECW</a>. <br> Meine große Leidenschaft ist die Webentwicklung mit
+        <a
+          href="https://vuejs.org/"
+          target="_blank" rel="noopener"
+        >
+          <div i-carbon-logo-vue inline-block text="green-600" class="vertical-middle" /> Vue
+        </a>
+        und dessen Ecosystem.
       </p>
       <p mb>
         Ich bin immer auf der Suche nach neuen Herausforderungen und liebe es, komplexe Probleme zu lösen und innovative Lösungen zu entwickeln.
