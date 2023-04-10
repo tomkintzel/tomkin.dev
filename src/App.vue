@@ -9,7 +9,7 @@ useHead({
 
 <template>
   <Navbar />
-  <main font-sans text="gray-700 dark:gray-200" mx-5 my-10 md:m-36>
+  <main font-sans class="mx-5 my-10 py-10 md:m-auto">
     <RouterView />
   </main>
 </template>
