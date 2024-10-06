@@ -25,7 +25,7 @@ defineOptions({
         Ich bin immer auf der Suche nach neuen Herausforderungen und liebe es, komplexe Probleme zu lösen und innovative Lösungen zu entwickeln.
       </p>
       <p class="mb">
-        Vue ist einfach der Hammer, ich liebe die Flexibilität und Skalierbarkeit, die es bietet. Es ermöglicht es mir, Anwendungen schnell und einfach zu erstellen, ohne Kompromisse bei der Qualität einzugehen.
+        Vue.js ist einfach fantastisch! Die Flexibilität und Skalierbarkeit, die es bietet, sind unschlagbar. Es erlaubt mir, hochwertige Anwendungen schnell und effizient zu entwickeln, ohne dabei Abstriche bei der Qualität machen zu müssen.
       </p>
       <p mb>
         Ich denke, das Beste an der Webentwicklung ist, dass man immer etwas Neues lernen und sich weiterentwickeln kann. Es ist so erfüllend, zu sehen, wie meine Arbeit dazu beiträgt, die Benutzererfahrung zu verbessern und die Effizienz zu steigern.
